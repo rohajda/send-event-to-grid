@@ -1,0 +1,16 @@
+{
+  "name": "send-event-to-grid",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Send event to azure event grid",
+  "main": "index.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/eventgrid": "^5.5.0",
+    "dotenv": "^16.4.5"
+  }
+}
